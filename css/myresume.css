@@ -24,12 +24,14 @@ h1 .text-primary {
 	color: #eb28af;
 }
 .text-primary {
-	color: #eb28af important;
+	color: #eb28af!important;
 }
 
 
 a {
 	color: #eb28af;
 }
+
+
 
 
