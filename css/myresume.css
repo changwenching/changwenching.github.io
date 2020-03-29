@@ -21,8 +21,10 @@ h1 .text-primary {
 }
 
 .bg-primary {
-	background-color: #efa8d9!important;
-	background-image: url("img/noisy-grid.png");
+	background-color: #eb28af!important;
+	background-color: #eb28af;
+        background-image: url("https://www.transparenttextures.com/patterns/noisy-grid.png");
+	
 }
 
 .text-primary {
