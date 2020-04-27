@@ -136,14 +136,6 @@ a:active, a:focus, a:hover {
   }
 }  
 
-.table {width: 80%;}
-th, td: {text-align: right;}
-th, td: {text-align: center;}
-th, td: {text-align: justify;}
-tr:nth-child(even) {background-color:#ddd
-tr:nth-child(odd) {background-color:#fff;}
-td {border-bottom:1px solid #3f294a;}
-td {border:1px solid #2a5d44;}
 
 
 
